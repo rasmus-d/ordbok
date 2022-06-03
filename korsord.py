@@ -1,5 +1,3 @@
-from genericpath import exists
-from http.client import SWITCHING_PROTOCOLS
 import sys
 import time
 
